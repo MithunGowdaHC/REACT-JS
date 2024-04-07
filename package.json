@@ -1,0 +1,14 @@
+{
+  "name": "nr-episode-1",
+  "version": "1.0.0",
+  "description": "React ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Mithun",
+  "license": "ISC"
+}
