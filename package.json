@@ -1,14 +1,31 @@
 {
   "name": "nr-episode-1",
   "version": "1.0.0",
-  "description": "React ",
-  "main": "app.js",
+  "description": "react",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MithunGowdaHC/REACT-JS.git"
+  },
   "keywords": [
-    "React"
+    "namaste"
   ],
-  "author": "Mithun",
-  "license": "ISC"
+  "author": "mithun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MithunGowdaHC/REACT-JS/issues"
+  },
+  "homepage": "https://github.com/MithunGowdaHC/REACT-JS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
